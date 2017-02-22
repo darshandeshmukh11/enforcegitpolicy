@@ -23,6 +23,9 @@ SCMActivity - "[description of the change done]"
 `SCMActivity - "Updated pom.xml"`
 
 ## Usage
+
+Put `minecommitdata.sh` script in your root git repository root folder
+
 `$ cd in to your git repository root`
 
 `$ sh minecommitdata.sh`
